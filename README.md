@@ -2,7 +2,7 @@
 
 The To-Do App with Local Storage is a web application that allows users to manage their tasks and store them locally in the browser. It provides a simple interface to add, update, and delete tasks.
 
-![To-Do App Screenshot](./screenshot.png)
+![Screenshot](./p.png.png)
 
 ## Features
 
